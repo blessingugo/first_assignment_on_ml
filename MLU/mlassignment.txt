@@ -1,0 +1,57 @@
+		First Assignment On Data Science And Machine Learning
+
+1;I Will be working on Autocorrect keyboard with python and machine learning
+
+2; Five Example Each Of ML
+Examples of Supervised learing
+1-Classification
+2-super vector machine
+3-Naive Bayesian Model
+4-Regression
+5-Decision Tree
+
+Examples Of Unsupervised learing
+1-Clustering
+2-Exclusive and Overlapping Clustering
+3-Probabilistic clustering
+4-Association Rules
+5-Apriori algorithms
+
+Examples Of Transfer learing
+1-Domain adaptation
+2-Multitask learning
+3-One-shot learning
+4- Zero-shot learning
+5-Domain confusion
+
+Examples Of Data Type
+What is an example of structured data?
+1-dates
+2- addresses
+3-credit card numbers
+4-stock information 
+5-geolocation
+
+Example Of Semi-structured data?
+1-Invoices,zipped files
+2-records
+3-emails
+4- XML and other markup languages
+5-Sensor data, ticker data.
+Analytics. Machine learning, artificial intelligence (AI)
+
+
+Examples of unstructured data? 
+1-Media and entertainment data
+2-surveillance data
+3-geo-spatial data 
+4-audio
+5-weather data.
+
+
+Examples of Binary data?
+1-yes or no
+2-1 or 0
+3-off or on
+4-positive or negative
+5-Gender (male or female)
